@@ -1,0 +1,45 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677759518.json",
+	"mirror_portraits": false,
+	"name": "Fox.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/characters/Fox/fox_smile.png"
+		},
+		{
+			"name": "fox_collar_shock",
+			"path": "res://assets/characters/Fox/fox_collar_shock.png"
+		},
+		{
+			"name": "fox_shock",
+			"path": "res://assets/characters/Fox/fox_shock.png"
+		},
+		{
+			"name": "fox_smile",
+			"path": "res://assets/characters/Fox/fox_smile.png"
+		},
+		{
+			"name": "fox_collar_smile",
+			"path": "res://assets/characters/Fox/fox_collar_smile.png"
+		},
+		{
+			"name": "fox_angry",
+			"path": "res://assets/characters/Fox/fox_angry.png"
+		},
+		{
+			"name": "fox_collar_angry",
+			"path": "res://assets/characters/Fox/fox_collar_angry.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

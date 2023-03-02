@@ -1,0 +1,125 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677758951.json",
+	"mirror_portraits": false,
+	"name": "Black.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/characters/Black/black_regular.png"
+		},
+		{
+			"name": "Black_regular_confused",
+			"path": "res://assets/characters/Black/Black_regular_confused.png"
+		},
+		{
+			"name": "Black_regular_disgust",
+			"path": "res://assets/characters/Black/Black_regular_disgust.png"
+		},
+		{
+			"name": "Black_disgust",
+			"path": "res://assets/characters/Black/Black_disgust.png"
+		},
+		{
+			"name": "black_angry2",
+			"path": "res://assets/characters/Black/black_angry2.png"
+		},
+		{
+			"name": "Black_regular_sad",
+			"path": "res://assets/characters/Black/Black_regular_sad.png"
+		},
+		{
+			"name": "black_angry1",
+			"path": "res://assets/characters/Black/black_angry1.png"
+		},
+		{
+			"name": "black_regular_blood",
+			"path": "res://assets/characters/Black/black_regular_blood.png"
+		},
+		{
+			"name": "black_surprised1",
+			"path": "res://assets/characters/Black/black_surprised1.png"
+		},
+		{
+			"name": "black_sad1",
+			"path": "res://assets/characters/Black/black_sad1.png"
+		},
+		{
+			"name": "Black_regular_angry",
+			"path": "res://assets/characters/Black/Black_regular_angry.png"
+		},
+		{
+			"name": "black_disgust1",
+			"path": "res://assets/characters/Black/black_disgust1.png"
+		},
+		{
+			"name": "Black_fear",
+			"path": "res://assets/characters/Black/Black_fear.png"
+		},
+		{
+			"name": "black_annoyed",
+			"path": "res://assets/characters/Black/black_annoyed.png"
+		},
+		{
+			"name": "Black_regular_fear",
+			"path": "res://assets/characters/Black/Black_regular_fear.png"
+		},
+		{
+			"name": "black_regular",
+			"path": "res://assets/characters/Black/black_regular.png"
+		},
+		{
+			"name": "black_mad3",
+			"path": "res://assets/characters/Black/black_mad3.png"
+		},
+		{
+			"name": "black_surprised",
+			"path": "res://assets/characters/Black/black_surprised.png"
+		},
+		{
+			"name": "black_mad2",
+			"path": "res://assets/characters/Black/black_mad2.png"
+		},
+		{
+			"name": "Black_regular_annoyed",
+			"path": "res://assets/characters/Black/Black_regular_annoyed.png"
+		},
+		{
+			"name": "black_mad1",
+			"path": "res://assets/characters/Black/black_mad1.png"
+		},
+		{
+			"name": "black_regular_surprised",
+			"path": "res://assets/characters/Black/black_regular_surprised.png"
+		},
+		{
+			"name": "Black_regular_happy2",
+			"path": "res://assets/characters/Black/Black_regular_happy2.png"
+		},
+		{
+			"name": "black_mad4",
+			"path": "res://assets/characters/Black/black_mad4.png"
+		},
+		{
+			"name": "Black_sad",
+			"path": "res://assets/characters/Black/Black_sad.png"
+		},
+		{
+			"name": "Black_regular_happy1",
+			"path": "res://assets/characters/Black/Black_regular_happy1.png"
+		},
+		{
+			"name": "Black_fear1",
+			"path": "res://assets/characters/Black/Black_fear1.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

@@ -1,15 +1,99 @@
 {
 	"events": [
 		{
-			"background": "",
+			"background": "res://assets/backgrounds/station_corridor.png",
 			"event_id": "dialogic_021"
 		},
 		{
-			"animation": "back_in_left.gd",
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "Black_regular_annoyed",
+			"text": "Don't even think about how you ended up here. It's all just weirdness, man"
+		},
+		{
+			"animation": "1-fade_in.gd",
 			"animation_length": 1,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
-			"character": "character-1677745812.json",
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"background": "res://assets/backgrounds/station_corridor.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just walk through the door"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "fox_angry",
+			"text": "I'm sorry, but you're not allowed to go"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
 			"portrait": "Default",
@@ -56,6 +140,12 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
 		}
 	],
 	"metadata": {
