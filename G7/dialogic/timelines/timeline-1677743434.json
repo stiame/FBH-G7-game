@@ -115,12 +115,12 @@
 			"value": ""
 		},
 		{
-			"definition": "1677760625-648",
+			"definition": "1677766730-146",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "2"
+			"set_value": "1"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -139,11 +139,11 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Black_fear",
+			"portrait": "black_annoyed",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false
@@ -162,9 +162,9 @@
 		},
 		{
 			"condition": "",
-			"definition": "1677760625-648",
+			"definition": "1677766730-146",
 			"event_id": "dialogic_012",
-			"value": "2"
+			"value": "1"
 		},
 		{
 			"animation": "[Default]",
@@ -174,11 +174,11 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Black_regular_confused",
+			"portrait": "black_surprised",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false

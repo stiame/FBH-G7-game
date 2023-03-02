@@ -7,13 +7,13 @@
 			"id": "1677760625-648",
 			"name": "Angry",
 			"type": 0,
-			"value": "Angry1"
+			"value": "Angry"
 		},
 		{
 			"id": "1677766730-146",
-			"name": "Angry2",
+			"name": "Surprised",
 			"type": 0,
-			"value": "Angry2"
+			"value": "Surprised"
 		}
 	]
 }
