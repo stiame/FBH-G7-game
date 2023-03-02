@@ -196,10 +196,34 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The End"
+			"portrait": "fox_shock",
+			"text": "What's wrong with your strange implants, they're red!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677766730-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "fox_shock",
+			"text": "What's wrong with your strange implants, they're yellow!"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
