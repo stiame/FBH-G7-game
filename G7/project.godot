@@ -81,7 +81,14 @@ _global_script_class_icons={
 [application]
 
 config/name="G7"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1280
+window/size/height=1024
+window/dpi/allow_hidpi=true
 
 [editor_plugins]
 
