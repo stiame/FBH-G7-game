@@ -1,0 +1,36 @@
+{
+	"events": [
+		{
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677766730-146",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677929420.json",
+		"name": "timeline-1677929420"
+	}
+}
