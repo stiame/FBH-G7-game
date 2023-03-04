@@ -93,7 +93,7 @@
 			"question": ""
 		},
 		{
-			"choice": "no",
+			"choice": "I must join the G7!",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -152,12 +152,6 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Angry is 1"
-		},
-		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -185,12 +179,6 @@
 			},
 			"type": 0,
 			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Angry is 2"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -224,11 +212,210 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677766730-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Black_regular_happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are they showing? "
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "Black_regular_happy1",
+			"text": "They started to express surprise! I am training AI to show emotions."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Black_regular_happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm so glad about this!"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm teaching AI to display emotions. It was just irritation!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "fox_shock",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "fox_shock",
+			"text": "Here they are, they've shown up!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "Black_regular_annoyed",
+			"text": "No! I will receive a notification when the emotion is being identified with 99% confidence."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "fox_angry",
+			"text": "How does confidence depend on?"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "black_regular",
+			"text": "Confidence depends on how often I experience the emotion."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, do you want to come in?"
+		},
+		{
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To get angry? "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677766730-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be surprised?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, and because the door is on my itinerary."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "fox_angry",
+			"text": "Curse these random lists and tours! I don't think anyone will like this."
+		},
+		{
+			"change_timeline": "timeline-1677920786.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1677743434.json",
-		"name": "timeline-1677743434"
+		"name": "Scene_1"
 	}
 }

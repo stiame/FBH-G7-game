@@ -1,0 +1,33 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677922688.json",
+	"mirror_portraits": false,
+	"name": "High Fox",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		},
+		{
+			"name": "high_fox_shock",
+			"path": "res://assets/characters/High_fox/high_fox_shock.png"
+		},
+		{
+			"name": "high_fox_smile",
+			"path": "res://assets/characters/High_fox/high_fox_smile.png"
+		},
+		{
+			"name": "high_fox_angry",
+			"path": "res://assets/characters/High_fox/high_fox_angry.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
