@@ -1,6 +1,73 @@
 {
 	"events": [
-
+		{
+			"condition": "<=",
+			"definition": "1677766730-146",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So I voted against it, but what's at stake here?"
+		},
+		{
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who will go inside and who will make the decision on what to do with this. It could be anything."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, poor foxes"
+		},
+		{
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We have a tradition of taking in survivors to try and understand what is happening in their net."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "<=",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't want to stand and wait if someone will come out"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
