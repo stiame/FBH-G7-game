@@ -4,16 +4,16 @@
 	],
 	"variables": [
 		{
-			"id": "1677766730-146",
-			"name": "Surprised",
-			"type": 0,
-			"value": "yellow"
-		},
-		{
 			"id": "1677760625-648",
 			"name": "Angry",
 			"type": 0,
-			"value": "red"
+			"value": "0"
+		},
+		{
+			"id": "1677766730-146",
+			"name": "Surprised",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

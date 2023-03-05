@@ -167,24 +167,6 @@
 			"set_value": "1"
 		},
 		{
-			"choice": "I can help alone if the door is always open",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1677760625-648",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"condition": "==",
 			"definition": "1677766730-146",
 			"event_id": "dialogic_012",
@@ -199,64 +181,6 @@
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
 			"portrait": "black_surprised1",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "==",
-			"definition": "1677760625-648",
-			"event_id": "dialogic_012",
-			"value": "2"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677758951.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "black_mad2",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "",
-			"definition": "1677760625-648",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677758951.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "black_annoyed",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -289,6 +213,62 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "I can help alone if the door is always open",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1677760625-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "lkjkljkkjkkjkjkjkjh"
+		},
+		{
+			"condition": "==",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "2"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "black_mad2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
 				"1": true,
 				"2": false,
 				"3": false,
@@ -296,6 +276,44 @@
 			},
 			"type": 0,
 			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "black_annoyed",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
