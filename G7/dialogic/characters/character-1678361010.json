@@ -1,0 +1,29 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1678361010.json",
+	"mirror_portraits": false,
+	"name": "Lower Fox",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		},
+		{
+			"name": "fox_wild_regular",
+			"path": "res://assets/characters/Wild_fox/fox_wild_regular.png"
+		},
+		{
+			"name": "fox_wild_crazy",
+			"path": "res://assets/characters/Wild_fox/fox_wild_crazy.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
