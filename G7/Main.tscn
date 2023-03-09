@@ -1,9 +1,20 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://addons/dialogic/Dialog.tscn" type="PackedScene" id=1]
 [ext_resource path="res://assets/menu/menu-backgrounds-text.png" type="Texture" id=2]
 [ext_resource path="res://assets/menu/nachat.png" type="Texture" id=3]
 [ext_resource path="res://Main.gd" type="Script" id=4]
+[ext_resource path="res://Menu.gd" type="Script" id=5]
+[ext_resource path="res://Start.gd" type="Script" id=6]
+[ext_resource path="res://assets/menu/prodoljit.png" type="Texture" id=7]
+[ext_resource path="res://assets/menu/progress.png" type="Texture" id=8]
+[ext_resource path="res://assets/menu/nastroit.png" type="Texture" id=9]
+
+[sub_resource type="StyleBoxLine" id=1]
+color = Color( 0.713726, 0.192157, 0.192157, 1 )
+thickness = 10
+
+[sub_resource type="StyleBoxTexture" id=2]
 
 [node name="Main" type="Node"]
 script = ExtResource( 4 )
@@ -20,6 +31,7 @@ margin_bottom = 20.0
 text = "Button"
 
 [node name="Menu" type="CanvasLayer" parent="."]
+script = ExtResource( 5 )
 
 [node name="Menu-backgrounds-text" type="Sprite" parent="Menu"]
 texture = ExtResource( 2 )
@@ -31,5 +43,28 @@ margin_top = 446.0
 margin_right = 465.0
 margin_bottom = 502.0
 texture_normal = ExtResource( 3 )
+script = ExtResource( 6 )
+
+[node name="Progress" type="Sprite" parent="Menu"]
+position = Vector2( 355, 730 )
+texture = ExtResource( 8 )
+
+[node name="Nastroit" type="Sprite" parent="Menu"]
+position = Vector2( 347, 833 )
+texture = ExtResource( 9 )
+
+[node name="Prodoljit" type="Sprite" parent="Menu"]
+position = Vector2( 304, 579 )
+texture = ExtResource( 7 )
+
+[node name="HSlider" type="HSlider" parent="Menu"]
+margin_left = 573.0
+margin_top = 799.0
+margin_right = 989.0
+margin_bottom = 868.0
+custom_styles/slider = SubResource( 1 )
+custom_styles/grabber_area = SubResource( 2 )
+max_value = 1.0
+step = 0.01
 
 [connection signal="pressed" from="Menu/Start" to="." method="_on_Start_pressed"]

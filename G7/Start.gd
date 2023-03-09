@@ -1,4 +1,4 @@
-extends Node
+extends TextureButton
 
 
 # Declare member variables here. Examples:
@@ -15,9 +15,6 @@ func _ready():
 #func _process(delta):
 #	pass
 
-
-func _on_Start_pressed():
-	$Menu.hide()
-	pass # Replace with function body.
-
-
+#func _input(event):
+#	if event is InputEventMouseButton and event.button_index == BUTTON_LEFT:
+#		get_tree().get_root().set_input_as_handled()
