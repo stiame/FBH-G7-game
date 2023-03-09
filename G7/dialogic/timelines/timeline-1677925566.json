@@ -36,19 +36,31 @@
 			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Who will go inside and who will make the decision on what to do with this. It could be anything."
+			"text": "Who will go inside and who will make the decision on what to do with this. "
 		},
 		{
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh, poor foxes"
+			"text": "Poor foxes! They never come out during the fires!"
 		},
 		{
 			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We have a tradition of taking in survivors to try and understand what is happening in their net."
+			"text": "There's a tradition that if a fox crosses your path, it becomes part of your caste. \nMeanwhile, we're trying to figure out how to solve the issue of wildfires."
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "Black_regular_confused",
+			"text": "Are we just standing here and watching?"
+		},
+		{
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes. It won't take much time."
 		},
 		{
 			"event_id": "dialogic_013"
@@ -63,13 +75,25 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don't want to stand and wait if someone will come out"
+			"text": "Or maybe you don't know about it!"
 		},
 		{
-			"character": "",
+			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I can do it!"
+			"text": "You don't understand anything here!"
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've come to teach your AI about anger in the wrong place."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I would recommend visiting the next door on the list"
 		},
 		{
 			"event_id": "dialogic_013"
