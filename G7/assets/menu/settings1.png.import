@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nachat.png-752635eb3ada788c6f140d39faa18383.stex"
+path="res://.import/settings1.png-94d1dde9ed37b65a6f20e26187c728e0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/menu/nachat.png"
-dest_files=[ "res://.import/nachat.png-752635eb3ada788c6f140d39faa18383.stex" ]
+source_file="res://assets/menu/settings1.png"
+dest_files=[ "res://.import/settings1.png-94d1dde9ed37b65a6f20e26187c728e0.stex" ]
 
 [params]
 
