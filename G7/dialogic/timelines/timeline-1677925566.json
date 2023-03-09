@@ -66,6 +66,12 @@
 			"text": "I don't want to stand and wait if someone will come out"
 		},
 		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can do it!"
+		},
+		{
 			"event_id": "dialogic_013"
 		}
 	],

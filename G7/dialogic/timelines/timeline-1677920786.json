@@ -55,7 +55,7 @@
 			"text": "But what are you and him doing here?"
 		},
 		{
-			"character": "character-1677759518.json",
+			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We're placing bets!"
@@ -82,7 +82,7 @@
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You can open it under any circumstances, but I would vote against it"
+			"text": "It can be opened if the lower foxes so desire. \nBut I'm confident that no one will come out of that door."
 		},
 		{
 			"condition": "",
@@ -152,7 +152,7 @@
 			"question": "I don't understand anything, but..."
 		},
 		{
-			"choice": "I agree that it's difficult to survive there",
+			"choice": "I totally agree with you!",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -209,7 +209,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_disgust1",
+			"portrait": "black_surprised",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -225,7 +225,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "I can help alone if the door is always open",
+			"choice": "I can help alone!",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -238,12 +238,6 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "lkjkljkkjkkjkjkjkjh"
 		},
 		{
 			"condition": "==",
@@ -265,7 +259,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_mad2",
+			"portrait": "black_angry2",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -285,12 +279,6 @@
 			"definition": "1677760625-648",
 			"event_id": "dialogic_012",
 			"value": "1"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "1"
 		},
 		{
 			"animation": "[Default]",
@@ -327,8 +315,8 @@
 		{
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
-			"portrait": "fox_smile",
-			"text": "I like the flexibility of your thinking, I will tell you more. The lower foxes spend most of their day online, and sometimes they cause accidents on their blocks. And they die."
+			"portrait": "fox_angry",
+			"text": "Foxes from the lower caste spend most of their time in the virtual network. \nAnd they themselves are setting fires in their residential blocks."
 		},
 		{
 			"animation": "[Default]",
@@ -354,7 +342,13 @@
 			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
 			"portrait": "high_fox_shock",
-			"text": "We don't understand what's going on with them. All the entrances are broken. This is the last available way to get to the lower territory. We need to fix it."
+			"text": "We don't understand what's happening in their virtual reality. But we must understand.\nAnd this is the last available way to get to the lower territory. Other the entrances are broken. "
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's very peculiar!"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -366,10 +360,10 @@
 			"value": "2"
 		},
 		{
-			"character": "character-1677759518.json",
+			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And I don't have the right to notice these moments, but for your own safety, continue your ear training elsewhere. You can't help those who don't want it. The lower foxes don't want it."
+			"portrait": "high_fox_angry",
+			"text": " You can't help those who don't want it. The lower foxes don't want it."
 		},
 		{
 			"animation": "[Default]",
@@ -382,8 +376,8 @@
 			"portrait": "high_fox_shock",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -392,10 +386,10 @@
 			"z_index": 0
 		},
 		{
-			"character": "character-1677922688.json",
+			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
 			"portrait": "fox_angry",
-			"text": "You have already visited this room, you can proceed to another one."
+			"text": "You have already visited room G7, you can proceed to another one."
 		},
 		{
 			"event_id": "dialogic_013"
