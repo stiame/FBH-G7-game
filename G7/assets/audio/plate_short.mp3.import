@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/plate_short.mp3-53a8ce0d81cf9aedc244a1f409995e64.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/plate_short.mp3"
+dest_files=[ "res://.import/plate_short.mp3-53a8ce0d81cf9aedc244a1f409995e64.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

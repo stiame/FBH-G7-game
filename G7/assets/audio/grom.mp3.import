@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/grom.mp3-7dffb5156b4392545a2e6372608f6a7d.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/grom.mp3"
+dest_files=[ "res://.import/grom.mp3-7dffb5156b4392545a2e6372608f6a7d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

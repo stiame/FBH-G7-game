@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bed.mp3-527dddb369ec854c03d7444b504a8ebd.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bed.mp3"
+dest_files=[ "res://.import/bed.mp3-527dddb369ec854c03d7444b504a8ebd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

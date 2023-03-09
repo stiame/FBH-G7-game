@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/colb.mp3-42e07f6474c7a0c00cdf6dec684b63b9.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/colb.mp3"
+dest_files=[ "res://.import/colb.mp3-42e07f6474c7a0c00cdf6dec684b63b9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

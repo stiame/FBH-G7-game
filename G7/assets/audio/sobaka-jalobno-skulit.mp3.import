@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sobaka-jalobno-skulit.mp3-24dd6f984aa60704426f3e44b8b367f7.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sobaka-jalobno-skulit.mp3"
+dest_files=[ "res://.import/sobaka-jalobno-skulit.mp3-24dd6f984aa60704426f3e44b8b367f7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

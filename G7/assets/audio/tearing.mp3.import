@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tearing.mp3-f0e8db3858aef09ba59d77cbc4378fcf.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/tearing.mp3"
+dest_files=[ "res://.import/tearing.mp3-f0e8db3858aef09ba59d77cbc4378fcf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

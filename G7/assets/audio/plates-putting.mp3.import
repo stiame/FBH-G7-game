@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/plates-putting.mp3-72304d68fb51cb6ff9cb89a51af77c5c.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/plates-putting.mp3"
+dest_files=[ "res://.import/plates-putting.mp3-72304d68fb51cb6ff9cb89a51af77c5c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gologram1.mp3-79034e1a1a44238bc9dc474a49bca571.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/gologram1.mp3"
+dest_files=[ "res://.import/gologram1.mp3-79034e1a1a44238bc9dc474a49bca571.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

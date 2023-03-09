@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gum.mp3-af7defd73968e3e4df3ddd3463f3c848.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/gum.mp3"
+dest_files=[ "res://.import/gum.mp3-af7defd73968e3e4df3ddd3463f3c848.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

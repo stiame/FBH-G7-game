@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ayay1.mp3-ed91a6f737434ebcc14c86aa5de6a1bc.mp3str"
+
+[deps]
+
+source_file="res://assets/music/ayay1.mp3"
+dest_files=[ "res://.import/ayay1.mp3-ed91a6f737434ebcc14c86aa5de6a1bc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

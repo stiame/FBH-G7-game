@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/chpok.mp3-c32a4cccba42e7d4fb2790adeb0081e3.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/chpok.mp3"
+dest_files=[ "res://.import/chpok.mp3-c32a4cccba42e7d4fb2790adeb0081e3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

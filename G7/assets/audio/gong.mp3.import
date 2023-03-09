@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gong.mp3-a259438f20494200562abd7a62c58cd9.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/gong.mp3"
+dest_files=[ "res://.import/gong.mp3-a259438f20494200562abd7a62c58cd9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

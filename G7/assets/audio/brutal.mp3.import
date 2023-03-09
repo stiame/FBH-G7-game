@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/brutal.mp3-73f4d2786b57aa778998b385827d1671.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/brutal.mp3"
+dest_files=[ "res://.import/brutal.mp3-73f4d2786b57aa778998b385827d1671.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

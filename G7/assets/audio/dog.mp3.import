@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dog.mp3-b9518a2163cdd61cbfa73123e86cddfc.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/dog.mp3"
+dest_files=[ "res://.import/dog.mp3-b9518a2163cdd61cbfa73123e86cddfc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

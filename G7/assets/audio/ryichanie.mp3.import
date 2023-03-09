@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ryichanie.mp3-79018d1e58b5c671b94887661a8ad7df.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/ryichanie.mp3"
+dest_files=[ "res://.import/ryichanie.mp3-79018d1e58b5c671b94887661a8ad7df.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
