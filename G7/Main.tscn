@@ -24,6 +24,7 @@ script = ExtResource( 4 )
 [node name="Dialog" parent="Game" instance=ExtResource( 1 )]
 timeline = "timeline-1677743434.json"
 add_canvas = false
+reset_saves = false
 
 [node name="Button" type="Button" parent="Game"]
 margin_right = 12.0
@@ -33,11 +34,15 @@ text = "Button"
 [node name="Menu" type="CanvasLayer" parent="."]
 script = ExtResource( 5 )
 
-[node name="Menu-backgrounds-text" type="Sprite" parent="Menu"]
+[node name="MainMenu" type="Control" parent="Menu"]
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="Menu-backgrounds-text" type="Sprite" parent="Menu/MainMenu"]
 texture = ExtResource( 2 )
 centered = false
 
-[node name="Start" type="TextureButton" parent="Menu"]
+[node name="Start" type="TextureButton" parent="Menu/MainMenu"]
 margin_left = 107.0
 margin_top = 446.0
 margin_right = 465.0
@@ -45,19 +50,19 @@ margin_bottom = 502.0
 texture_normal = ExtResource( 3 )
 script = ExtResource( 6 )
 
-[node name="Progress" type="Sprite" parent="Menu"]
+[node name="Progress" type="Sprite" parent="Menu/MainMenu"]
 position = Vector2( 355, 730 )
 texture = ExtResource( 8 )
 
-[node name="Nastroit" type="Sprite" parent="Menu"]
+[node name="Nastroit" type="Sprite" parent="Menu/MainMenu"]
 position = Vector2( 347, 833 )
 texture = ExtResource( 9 )
 
-[node name="Prodoljit" type="Sprite" parent="Menu"]
+[node name="Prodoljit" type="Sprite" parent="Menu/MainMenu"]
 position = Vector2( 304, 579 )
 texture = ExtResource( 7 )
 
-[node name="HSlider" type="HSlider" parent="Menu"]
+[node name="HSlider" type="HSlider" parent="Menu/MainMenu"]
 margin_left = 573.0
 margin_top = 799.0
 margin_right = 989.0
@@ -67,4 +72,30 @@ custom_styles/grabber_area = SubResource( 2 )
 max_value = 1.0
 step = 0.01
 
-[connection signal="pressed" from="Menu/Start" to="." method="_on_Start_pressed"]
+[node name="IngameMenu" type="Control" parent="Menu"]
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="Save" type="Button" parent="Menu/IngameMenu"]
+margin_right = 41.0
+margin_bottom = 20.0
+text = "Save"
+
+[node name="Load" type="Button" parent="Menu/IngameMenu"]
+margin_left = 1.0
+margin_top = 25.0
+margin_right = 43.0
+margin_bottom = 45.0
+text = "Load"
+
+[node name="GoToMenu" type="Button" parent="Menu/IngameMenu"]
+margin_left = 2.0
+margin_top = 46.0
+margin_right = 89.0
+margin_bottom = 66.0
+text = "Open Menu"
+
+[connection signal="pressed" from="Menu/MainMenu/Start" to="." method="_on_Start_pressed"]
+[connection signal="pressed" from="Menu/IngameMenu/Save" to="." method="_on_Save_pressed"]
+[connection signal="pressed" from="Menu/IngameMenu/Load" to="." method="_on_Load_pressed"]
+[connection signal="pressed" from="Menu/IngameMenu/GoToMenu" to="." method="_on_GoToMenu_pressed"]
