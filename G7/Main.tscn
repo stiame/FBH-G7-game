@@ -30,6 +30,7 @@ margin_bottom = 20.0
 text = "Button"
 
 [node name="Menu" type="CanvasLayer" parent="."]
+visible = false
 script = ExtResource( 5 )
 
 [node name="Menu-backgrounds-text" type="Sprite" parent="Menu"]

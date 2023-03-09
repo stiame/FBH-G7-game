@@ -34,5 +34,6 @@ func _on_Load_pressed():
 
 
 func _on_GoToMenu_pressed():
-	$Menu/MainMenu.show()
-	$Menu/IngameMenu.hide()
+#	$Menu/MainMenu.show()
+#	$Menu/IngameMenu.hide()
+	pass
