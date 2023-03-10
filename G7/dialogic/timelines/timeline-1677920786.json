@@ -83,9 +83,17 @@
 			"z_index": 0
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/audio/fire2.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Black_regular_fear",
 			"text": "Can you see someone burning?"
 		},
 		{
@@ -96,7 +104,7 @@
 			"change_z_index": false,
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": true,
+			"mirror_portrait": false,
 			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
@@ -191,6 +199,26 @@
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
@@ -241,7 +269,7 @@
 			"portrait": "fox_angry",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
+				"0": true,
 				"1": false,
 				"2": false,
 				"3": false,
@@ -270,7 +298,7 @@
 			"portrait": "fox_smile",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
+				"0": true,
 				"1": false,
 				"2": false,
 				"3": false,
@@ -283,12 +311,12 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1677758951.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
-			"portrait": "",
+			"portrait": "Black_regular_confused",
 			"question": "I don't understand anything, but..."
 		},
 		{
@@ -316,6 +344,7 @@
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
@@ -324,13 +353,17 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": true,
+				"1": false,
 				"2": false,
 				"3": false,
-				"4": false
+				"4": true
 			},
-			"type": 0,
+			"type": 2,
 			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1677925566.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -345,6 +378,7 @@
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
@@ -356,10 +390,14 @@
 				"1": false,
 				"2": false,
 				"3": false,
-				"4": false
+				"4": true
 			},
-			"type": 0,
+			"type": 2,
 			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1677925566.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -386,15 +424,10 @@
 			"value": "2"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "2"
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
@@ -403,12 +436,12 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": true,
+				"1": false,
 				"2": false,
 				"3": false,
-				"4": false
+				"4": true
 			},
-			"type": 0,
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -448,15 +481,29 @@
 		},
 		{
 			"condition": "<=",
-			"definition": "1677766730-146",
+			"definition": "1677760625-648",
 			"event_id": "dialogic_012",
 			"value": "2"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
 			"character": "character-1677759518.json",
-			"event_id": "dialogic_001",
-			"portrait": "fox_angry",
-			"text": "Foxes from the lower caste spend most of their time in the virtual network. \nAnd they themselves are setting fires in their residential blocks."
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "high_fox_shock",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
@@ -466,38 +513,17 @@
 			"character": "character-1677922688.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "high_fox_shock",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
 			},
 			"type": 0,
 			"z_index": 0
-		},
-		{
-			"character": "character-1677922688.json",
-			"event_id": "dialogic_001",
-			"portrait": "high_fox_shock",
-			"text": "We don't understand what's happening in their virtual reality. But we must understand.\nAnd this is the last available way to get to the lower territory. Other the entrances are broken. "
-		},
-		{
-			"character": "character-1677759518.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It's very peculiar!"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "<=",
-			"definition": "1677760625-648",
-			"event_id": "dialogic_012",
-			"value": "2"
 		},
 		{
 			"character": "character-1677922688.json",
@@ -522,6 +548,26 @@
 				"3": false,
 				"4": false
 			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
 			"type": 0,
 			"z_index": 0
 		},
@@ -532,11 +578,11 @@
 			"text": "You have already visited room G7, you can proceed to another one."
 		},
 		{
-			"event_id": "dialogic_013"
+			"change_timeline": "timeline-1678416158.json",
+			"event_id": "dialogic_020"
 		},
 		{
-			"change_timeline": "timeline-1677925566.json",
-			"event_id": "dialogic_020"
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

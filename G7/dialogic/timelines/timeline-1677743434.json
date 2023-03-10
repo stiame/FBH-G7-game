@@ -1,8 +1,9 @@
 {
 	"events": [
 		{
-			"background": "res://assets/backgrounds/station_corridor.png",
-			"event_id": "dialogic_021"
+			"background": "res://assets/backgrounds/bg_G7.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
 		},
 		{
 			"audio_bus": "Master",
@@ -17,6 +18,12 @@
 			"event_id": "dialogic_023",
 			"hide_dialogbox": false,
 			"wait_seconds": 2
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "Black_regular_confused",
+			"text": "It's all just weirdness, man"
 		},
 		{
 			"animation": "1-fade_in.gd",
@@ -42,32 +49,6 @@
 		{
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_001",
-			"portrait": "Black_regular_annoyed",
-			"text": "It's all just weirdness, man"
-		},
-		{
-			"animation": "4-fade_out.gd",
-			"animation_length": 2,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677758951.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 1,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
 			"portrait": "Default",
 			"text": "Just walk through the door"
 		},
@@ -85,8 +66,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": true,
-				"4": false
+				"3": false,
+				"4": true
 			},
 			"type": 0,
 			"z_index": 0
@@ -96,6 +77,48 @@
 			"event_id": "dialogic_001",
 			"portrait": "fox_angry",
 			"text": "I'm sorry, but you're not allowed to go"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -156,8 +179,8 @@
 			"portrait": "black_annoyed",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -185,8 +208,8 @@
 			"portrait": "black_surprised",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -359,7 +382,7 @@
 		{
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_001",
-			"portrait": "Black_regular_annoyed",
+			"portrait": "Default",
 			"text": "No! I will receive a notification when the emotion is being identified with 99% confidence."
 		},
 		{

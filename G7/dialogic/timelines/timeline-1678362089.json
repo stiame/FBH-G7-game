@@ -147,6 +147,28 @@
 			"text": "I have to help them because there's no one else.\n"
 		},
 		{
+			"background": "res://assets/backgrounds/chip_factory_foxs.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How come it's so dark in here? \n"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And whose footsteps am I hearing?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The end"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -186,6 +208,28 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I have to help them because there's no one else.\n"
+		},
+		{
+			"background": "res://assets/backgrounds/chip_factory_foxs.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How come it's so dark in here? \n"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And whose footsteps am I hearing?\n"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The end"
 		},
 		{
 			"event_id": "dialogic_013"

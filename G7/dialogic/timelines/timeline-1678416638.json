@@ -7,30 +7,10 @@
 			"value": "2"
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677758951.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"character": "character-1677758951.json",
+			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "So I voted against it, but what's at stake here?"
+			"portrait": "fox_angry",
+			"text": "Foxes from the lower caste spend most of their time in the virtual network. \nAnd they themselves are setting fires in their residential blocks."
 		},
 		{
 			"animation": "[Default]",
@@ -44,7 +24,7 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false
@@ -64,7 +44,7 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false
@@ -75,44 +55,63 @@
 		{
 			"character": "character-1677922688.json",
 			"event_id": "dialogic_001",
+			"portrait": "high_fox_shock",
+			"text": "We don't understand what's happening in their virtual reality. But we must understand.\nAnd this is the last available way to get to the lower territory. Other the entrances are broken. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
 			"portrait": "",
-			"text": "Who will go inside and who will make the decision on what to do with this. "
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677759518.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Poor foxes! They never come out during the fires!"
+			"text": "It's very peculiar!"
 		},
 		{
-			"character": "character-1677922688.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "There's a tradition that if a fox crosses your path, it becomes part of your caste. \nMeanwhile, we're trying to figure out how to solve the issue of wildfires."
-		},
-		{
-			"character": "character-1677758951.json",
-			"event_id": "dialogic_001",
-			"portrait": "Black_regular_confused",
-			"text": "Are we just standing here and watching?"
-		},
-		{
-			"character": "character-1677922688.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Yes. It won't take much time."
-		},
-		{
-			"change_timeline": "timeline-1678350102.json",
+			"change_timeline": "timeline-1677925566.json",
 			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
-		"file": "timeline-1677925566.json",
-		"name": "Scene_2.5"
+		"file": "timeline-1678416638.json",
+		"name": "Scene_2.1A"
 	}
 }

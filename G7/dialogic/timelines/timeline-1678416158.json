@@ -1,0 +1,46 @@
+{
+	"events": [
+		{
+			"condition": "<=",
+			"definition": "1677760625-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1677758951.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or maybe you don't know about it!"
+		},
+		{
+			"character": "character-1677922688.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't understand anything here!"
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've come to teach your AI about anger in the wrong place."
+		},
+		{
+			"character": "character-1677759518.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I would recommend visiting the next door on the list"
+		},
+		{
+			"change_timeline": "timeline-1678362089.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1678416158.json",
+		"name": "Scene_2.5A"
+	}
+}
