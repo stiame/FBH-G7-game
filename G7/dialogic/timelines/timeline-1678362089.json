@@ -85,7 +85,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
+			"hide_dialogbox": false,
 			"wait_seconds": 2
 		},
 		{
@@ -366,7 +366,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_angry2",
+			"portrait": "black_veryangry",
 			"portrait_definition": "",
 			"position": {
 				"0": false,

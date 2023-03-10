@@ -5,7 +5,7 @@
 	"display_name_bool": false,
 	"id": "character-1677758951.json",
 	"mirror_portraits": false,
-	"name": "Black.json",
+	"name": "Ash",
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
@@ -118,6 +118,10 @@
 		{
 			"name": "Black_fear1",
 			"path": "res://assets/characters/Black/Black_fear1.png"
+		},
+		{
+			"name": "black_veryangry",
+			"path": "res://assets/characters/Black/black_veryangry.png"
 		}
 	],
 	"scale": 100,
