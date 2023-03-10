@@ -53,7 +53,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 3,
-			"file": "res://assets/music/newman_stars.mp3",
+			"file": "res://assets/music/Gran_G7_music.mp3",
 			"volume": 0
 		},
 		{
@@ -87,7 +87,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://assets/audio/fire2.mp3",
+			"file": "",
 			"volume": 0
 		},
 		{
@@ -383,7 +383,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_surprised",
+			"portrait": "Black_happy",
 			"portrait_definition": "",
 			"position": {
 				"0": false,

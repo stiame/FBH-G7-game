@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Gran_G7_music.mp3-c10881b8498d2acf7c080ed1d76b20d8.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Gran_G7_music.mp3"
+dest_files=[ "res://.import/Gran_G7_music.mp3-c10881b8498d2acf7c080ed1d76b20d8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

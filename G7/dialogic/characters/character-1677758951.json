@@ -130,6 +130,10 @@
 		{
 			"name": "",
 			"path": ""
+		},
+		{
+			"name": "Black_happy",
+			"path": "res://assets/characters/Black/Black_happy.png"
 		}
 	],
 	"scale": 100,

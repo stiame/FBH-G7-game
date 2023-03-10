@@ -11,7 +11,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 3,
-			"file": "res://assets/music/r.mp3",
+			"file": "res://assets/music/rt.mp3",
 			"volume": 0
 		},
 		{
@@ -102,6 +102,7 @@
 		{
 			"animation": "[Default]",
 			"animation_length": 1,
+			"animation_wait": false,
 			"change_mirror_portrait": true,
 			"change_position": true,
 			"change_z_index": false,
@@ -205,7 +206,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_surprised",
+			"portrait": "Black_happy",
 			"portrait_definition": "",
 			"position": {
 				"0": true,
