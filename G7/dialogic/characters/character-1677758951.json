@@ -1,5 +1,5 @@
 {
-	"color": "#ffffffff",
+	"color": "#fff807fa",
 	"description": "",
 	"display_name": "",
 	"display_name_bool": false,
@@ -122,6 +122,14 @@
 		{
 			"name": "black_veryangry",
 			"path": "res://assets/characters/Black/black_veryangry.png"
+		},
+		{
+			"name": "black_surprised1",
+			"path": "res://assets/characters/Black/black_surprised1.png"
+		},
+		{
+			"name": "",
+			"path": ""
 		}
 	],
 	"scale": 100,

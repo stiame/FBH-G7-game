@@ -349,7 +349,7 @@
 			"character": "character-1677758951.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "black_surprised1",
+			"portrait": "black_surprised",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -516,8 +516,8 @@
 			"portrait": "high_fox_shock",
 			"portrait_definition": "",
 			"position": {
-				"0": true,
-				"1": false,
+				"0": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false
