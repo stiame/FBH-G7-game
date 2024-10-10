@@ -12,11 +12,16 @@ Follow the Black Hare is a project that aims to create sci-fi content about Web3
 * 17 donations worth ~$2000 and ~90k GIVPOWER on [Giveth](https://giveth.io/project/follow-the-black-hare).
 * Participated in the Hackathon for [G7 and Rensa](https://github.com/H1na/FBH-G7-game), 
 * Consistently release new content, including weekly articles and science fiction stories in our Web3 LOR on [Mirror](https://mirror.xyz/0x7587Cfbd20E5A970209526b4D1f69dBAae8Bed37), and starting monthly updates for our game.
+* [GG20](https://checker.gitcoin.co/public/project/show/follow-the-black-hare-3) in DeSci Round
+* [GG18](https://explorer.gitcoin.co/#/round/10/0x2871742b184633f8dc8546c6301cbc209945033e/0x2871742b184633f8dc8546c6301cbc209945033e-98) in Web3 Community and Educated Round
+* Gitcoin Beta [Web3 Community and Educated](https://explorer.gitcoin.co/#/round/1/0xaa40e2e5c8df03d792a52b5458959c320f86ca18/0xaa40e2e5c8df03d792a52b5458959c320f86ca18-15)
+
 ## Community
 * Members of the Solarpunk Guild, 
 * ReFi DAO [projects of the week](https://twitter.com/Linggih_ngurah/status/1625942544940146688).
 * [Lecture](https://twitter.com/stia_me/status/1638092016155521029) about Gitcoin and Web3 to founders of public good projects
 * [Poap](https://www.poap.delivery/follow-the-black-hare) for supporters GR15
+
 ## Get Involved
 We invite you to follow our progress and join us in the world of Web3 by:
 * Following us on [Twitter](https://twitter.com/FollowBlackHare)
